@@ -5,7 +5,7 @@ SendQ := 1
 
 Gui, Add, Text, , Settings
 Gui, Add, Text, , [F] Delay:
-Gui, Add, Edit, vFWaitTime, 100
+Gui, Add, Edit, vFWaitTime, 60
 Gui, Add, Checkbox, vSendQ, ThrowPot 
 Gui, Add, Button, gGuardarConfig, Save 
 
